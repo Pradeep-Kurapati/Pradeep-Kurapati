@@ -47,7 +47,7 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
 
 ## 📈 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-Kurapati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-Kurapati&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
 	
