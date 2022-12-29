@@ -23,21 +23,21 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
 <div id="socials">
 
   <a href="https://twitter.com/kpradeep_7">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/pradeep-kurapati-5b5231250/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/kpradeep_7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge"/></a>
-  <a href="https://pradeepkurapati.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
-  <a href="mailto:kurapatipradeep0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+  <a href="https://www.instagram.com/kpradeep_7/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram badge"/></a>
+  <a href="https://pradeepkurapati.hashnode.dev/"><img src="https://camo.githubusercontent.com/c8908719044365963ab6efff0f3e207fc97d0d2f0a9075f686065cf74d4e9527/68747470733a2f2f63646e2e73766172756e2e6465762f636f6d6d6f6e2f686173686e6f64652f69636f6e2e706e67" width="48" height="48"></a>
+  <a href="mailto:kurapatipradeep0@gmail.com"><img src="https://img.icons8.com/fluency/512/gmail.png" width="52" height="52" alt="gmail"/></a>
 </div>
 
 [![Pradeep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pradeep-Kurapati&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 ### Languages :
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP">
+[![My Skills](https://skillicons.dev/icons?i=html,java,python,cpp)](https://skillicons.dev)
 
 ### Libraries and Frameworks :
 
@@ -46,6 +46,9 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
 
 
 ## 📈 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-Kurapati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pradeep-Kurapati&show_icons=true&theme=tokyonight" />
