@@ -40,7 +40,9 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
 [![My Skills](https://skillicons.dev/icons?i=html,java,python)](https://skillicons.dev)
 
 ### Libraries and Frameworks :
-
+<p align='center'>
+	<img src = 'https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'>
+</p>
 
 ### DevOps and Cloud Tools : 
 
