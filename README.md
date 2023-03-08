@@ -33,6 +33,8 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
   <a href="mailto:kurapatipradeep0@gmail.com"><img src="https://img.icons8.com/fluency/512/gmail.png" width="52" height="52" alt="gmail"/></a>
 </div>
 
+<br>
+
 [![Pradeep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pradeep-Kurapati&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
@@ -40,6 +42,7 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask)](https://skillicons.dev)
 
 ### Web Development :
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
 
 ### DevOps and Cloud Tools : 
