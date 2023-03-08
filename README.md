@@ -36,13 +36,11 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
 [![Pradeep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pradeep-Kurapati&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
-### Languages :
-[![My Skills](https://skillicons.dev/icons?i=html,java,python)](https://skillicons.dev)
+### Programming Languages and Frameworks :
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask)](https://skillicons.dev)
 
-### Libraries and Frameworks :
-<p align='center'>
-	<img src = 'https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'>
-</p>
+### Web Development :
+
 
 ### DevOps and Cloud Tools : 
 
