@@ -39,7 +39,7 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
 
 ## ⚡ Technologies
 ### Programming Languages and Frameworks :
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,go,flask)](https://skillicons.dev)
 
 ### Web Development :
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,postman)](https://skillicons.dev)
