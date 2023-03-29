@@ -42,7 +42,7 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,go,typescript,flask)](https://skillicons.dev)
 
 ### Web Development :
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,postman)](https://skillicons.dev)
 
 
 ### DevOps and Cloud Tools : 
