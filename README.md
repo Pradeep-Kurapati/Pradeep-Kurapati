@@ -35,7 +35,6 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
 
 <br>
 
-[![Pradeep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pradeep-Kurapati&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 ### Programming Languages and Frameworks :
@@ -46,7 +45,7 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
 
 
 ### DevOps and Cloud Tools : 
-
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ## 📈 Stats
 
