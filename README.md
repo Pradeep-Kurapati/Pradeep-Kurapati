@@ -45,7 +45,7 @@ I'm an undergrad student from India. I'm a beginner to tech and currently learni
 
 
 ### DevOps and Cloud Tools : 
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
 ## 📈 Stats
 
